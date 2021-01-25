@@ -1,0 +1,66 @@
+@media (max-width: 1760px) {
+
+    .header__nav {
+        grid-column-gap: 15px;
+    }
+
+    .header__img {
+        height: 280px;
+        width: 340px;
+    }
+
+    .portfolio__img-1, .portfolio__img-2, .portfolio__img-3, .portfolio__img-4, .portfolio__img-5, .portfolio__img-6, .portfolio__img-7, .portfolio__img-8 {
+        width: 530px;
+        height: 341px;
+    }
+
+    .contacts__name {
+        width: 220px;
+        height: 50px;
+    }
+    
+    .contacts__email {
+        width: 220px;
+        height: 50px;
+    }
+
+    .contacts__comments {
+        min-width: 480px;
+        max-width: 480px;
+    }
+
+}
+
+@media (max-width: 1680px) {
+
+    .header__nav {
+        font-size: 14px;
+        grid-column-gap: 10px;
+    }
+
+    .header__img {
+        height: 270px;
+        width: 320px;
+    }
+
+    .portfolio__img-1, .portfolio__img-2, .portfolio__img-3, .portfolio__img-4, .portfolio__img-5, .portfolio__img-6, .portfolio__img-7, .portfolio__img-8 {
+        width: 500px;
+        height: 341px;
+    }
+
+    .contacts__name {
+        width: 220px;
+        height: 50px;
+    }
+    
+    .contacts__email {
+        width: 220px;
+        height: 50px;
+    }
+
+    .contacts__comments {
+        min-width: 480px;
+        max-width: 480px;
+    }
+
+}
